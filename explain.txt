@@ -1,0 +1,3 @@
+- Web Portfolio 구현
+- Vue.js 학습 후 제작 예정
+- Back 필요 X
