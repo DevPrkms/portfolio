@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+:root {
+    --main-color : #4ea1d3;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-color: var(--main-color);
+    font-family: 'Jeju Gothic', sans-serif !important;
+    -ms-overflow-style: none;
+}
+
+#introduce {
+    width: 100vw;
+    height: 100vh;
+}
+
+#portfolio {
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+}
+
+#my-self {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    vertical-align: center;
+    width: 80%;
+    height: 80%;
+    background-color: #f4f7f7;
+    box-shadow: 10px 10px 20px 1px #6d819c;
+    border-radius: 10px;
+}
