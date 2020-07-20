@@ -1,20 +1,30 @@
 @import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 
-:root {
-    --main-color : #4ea1d3;
-}
-
 ::-webkit-scrollbar {
     display: none;
 }
 
 body {
-    background-color: var(--main-color);
     font-family: 'Jeju Gothic', sans-serif !important;
     -ms-overflow-style: none;
 }
 
+#logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-left: 10px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    -moz-text-shaodw: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    -webkit-text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 #introduce {
+    background-color: #9DC8C8;
     width: 100vw;
     height: 100vh;
 }
@@ -22,7 +32,7 @@ body {
 #portfolio {
     width: 100vw;
     height: 100vh;
-    background-color: green;
+    background-color: #58C9B9;
 }
 
 #my-self {
@@ -61,4 +71,24 @@ body {
     margin-right: 10px;
     margin-bottom: 10px;
     box-shadow: 10px 10px 20px 1px #6d819c;
+}
+
+#finish {
+    background-color: #519D9E;
+    width: 100vw;
+    height: 100vh;
+}
+
+.tail {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    z-index: 999;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    -moz-text-shaodw: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    -webkit-text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }

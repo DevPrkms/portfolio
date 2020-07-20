@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="front design">
-      <change afterPath="$PROJECT_DIR$/assets/fullpage/fullpage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fullpage/fullpage.js" afterDir="false" />
+    <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -76,7 +74,7 @@
       <updated>1594864631928</updated>
       <workItem from="1594864633934" duration="1703000" />
       <workItem from="1594874165735" duration="5291000" />
-      <workItem from="1595218969286" duration="2600000" />
+      <workItem from="1595218969286" duration="4701000" />
     </task>
     <task id="LOCAL-00001" summary="front design">
       <created>1594879535254</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594879535254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="one page scrolling &amp; slide">
+      <created>1595221604637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595221604637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="front design" />
-    <option name="LAST_COMMIT_MESSAGE" value="front design" />
+    <MESSAGE value="one page scrolling &amp; slide" />
+    <option name="LAST_COMMIT_MESSAGE" value="one page scrolling &amp; slide" />
   </component>
   <component name="WindowStateProjectService">
     <state x="735" y="228" key="#HTTP_Proxy" timestamp="1594874521517">
@@ -120,10 +126,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594874563149" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1594879538704">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1595221607263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594879538704" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595221607263" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594874555997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
