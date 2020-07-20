@@ -21,23 +21,61 @@
     <!-- Custom CSS load -->
     <link rel="stylesheet" href="/assets/index.css">
     <!-- Custom CSS load end -->
+    <!-- fullpage load -->
+    <link rel="stylesheet" href="/assets/fullpage/fullpage.css">
+    <script type="text/javascript" src="/assets/fullpage/fullpage.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#fullpage').fullpage({
+                licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+                autoScrolling: true,
+                scrollHorizontally: true
+            })
+        })
+    </script>
+    <!-- fullpage load end -->
 </head>
 <body>
-<div id="introduce">
-    <div id="my-self"></div>
+<div id="fullpage">
+    <div id="introduce" class="section">
+        <div id="my-self"></div>
+    </div>
+
+    <div id="portfolio" class="section">
+        <div class="slide">
+            <div class="portfolio">
+                1 of 4
+            </div>
+        </div>
+        <div class="slide">
+            <div class="portfolio">
+                2 of 4
+            </div>
+        </div>
+        <div class="slide">
+            <div class="portfolio">
+                3 of 4
+            </div>
+        </div>
+        <div class="slide">
+            <div class="portfolio">
+                4 of 4
+            </div>
+        </div>
+    </div>
+    <div id="finish" class="section">
+        <div id="endpage"></div>
+    </div>
 </div>
 
-<div id="portfolio">
-    <div class="contents"></div>
-</div>
-<script>
-    new Vue({
-        el: '#introduce',
-        data: {
-            message: 'page 1'
-        }
-    })
-</script>
+<!--<script>-->
+<!--    new Vue({-->
+<!--        el: '#introduce',-->
+<!--        data: {-->
+<!--            message: 'page 1'-->
+<!--        }-->
+<!--    })-->
+<!--</script>-->
 </body>
 <!-- bootstrap JS load -->
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
