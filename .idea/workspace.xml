@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +71,8 @@
       <workItem from="1594864633934" duration="1703000" />
       <workItem from="1594874165735" duration="5291000" />
       <workItem from="1595218969286" duration="4701000" />
+      <workItem from="1597982054591" duration="720000" />
+      <workItem from="1598055629208" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="front design">
       <created>1594879535254</created>
