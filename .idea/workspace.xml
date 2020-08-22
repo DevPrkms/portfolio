@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide">
-      <change afterPath="$PROJECT_DIR$/assets/img/ec2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/flutter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mariadb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mongodb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/oracle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/reactjs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +77,7 @@
       <workItem from="1595218969286" duration="4701000" />
       <workItem from="1597982054591" duration="720000" />
       <workItem from="1598055629208" duration="15998000" />
+      <workItem from="1598074249538" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="front design">
       <created>1594879535254</created>
@@ -144,6 +137,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595221607263" />
+    <state x="575" y="189" width="586" height="804" key="find.popup" timestamp="1598074345108">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="575" y="189" width="586" height="804" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598074345108" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594874555997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
