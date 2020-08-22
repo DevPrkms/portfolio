@@ -20,6 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide">
+      <change afterPath="$PROJECT_DIR$/assets/img/ec2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/flutter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/mariadb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/mongodb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/oracle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/reactjs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\portfolio\assets\img" />
       <recent name="C:\Users\data-lab1\Desktop\webportfolio\assets\fullpage" />
     </key>
   </component>
@@ -74,7 +84,7 @@
       <workItem from="1594874165735" duration="5291000" />
       <workItem from="1595218969286" duration="4701000" />
       <workItem from="1597982054591" duration="720000" />
-      <workItem from="1598055629208" duration="2233000" />
+      <workItem from="1598055629208" duration="15998000" />
     </task>
     <task id="LOCAL-00001" summary="front design">
       <created>1594879535254</created>
@@ -122,6 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="160" key="#Plugins/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594874533944" />
+    <state x="207" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598060334869">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="207" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598060334869" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1594874563149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
