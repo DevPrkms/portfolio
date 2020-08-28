@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7cb58f-5ebc-4d07-83c5-d33f3d599d38" name="Default Changelist" comment="one page scrolling &amp; slide">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +82,7 @@
       <workItem from="1598167162541" duration="41000" />
       <workItem from="1598613543764" duration="65000" />
       <workItem from="1598613784828" duration="36000" />
+      <workItem from="1598613923558" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="front design">
       <created>1594879535254</created>
